@@ -1,4 +1,9 @@
 # Bamazon
 HW10
 
-![Alt text](Bamazon/ScreenShot_1.png?raw=true “Screenshot 1”)
+
+
+![Image of ScreenShot_1](https://ibb.co/bxHV0w)
+
+
+
